@@ -1,8 +1,8 @@
-# Normal Boar
+# Explosionless Boar
 
 <aside class="side-info common">
 
-## Normal Boar
+## Explosionless Boar
 
 ![Explosionless Boar](/img/boars/ExplosionlessBoar.png)
 

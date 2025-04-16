@@ -2,7 +2,7 @@
 
 <aside class="side-info common">
 
-## Normal Boar
+## Tiny Boar
 
 ![Tiny Boar](/img/boars/TinyBoar.png)
 

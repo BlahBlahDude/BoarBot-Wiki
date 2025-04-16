@@ -24,7 +24,7 @@ Alpha
 
 ## Origin
 
-Normal Boar was the first boar added to BoarBot, based on the exploding boar head meme.
+Normal Boar is used as the base design for nearly every boar in the game, with it being based on the exploding boar head meme.
 
 ## First Discovery
 

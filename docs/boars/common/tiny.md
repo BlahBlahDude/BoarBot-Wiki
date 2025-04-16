@@ -28,6 +28,8 @@ Alpha
 
 ## First Discovery
 
-The first edition of Normal Boar in BoarBot was obtained by user **kiwehbird**.
+The first edition of Tiny Boar in BoarBot was obtained by user **kiwehbird**.
 
 ## History
+
+Tiny Boar was the first boar obtained in BoarBot

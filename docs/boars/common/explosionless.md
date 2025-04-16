@@ -28,6 +28,6 @@ Alpha
 
 ## First Discovery
 
-The first edition of Normal Boar in BoarBot was obtained by user **realnumber9**.
+The first edition of Explosionless Boar in BoarBot was obtained by user **realnumber9**.
 
 ## History
